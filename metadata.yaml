@@ -1,0 +1,37 @@
+_repo: Burning-Sands_34978
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weigall, Arthur E. P. Brome (Arthur Edward Pearse Brome)
+    aliases:
+    - Weigall, Arthur
+    - Weigall, Arthur Edward Pearse Brome
+    birthdate: 1880
+    deathdate: 1934
+    gutenberg_agent_id: '37360'
+    url: http://www.gutenberg.org/2009/agents/37360
+description: Daniel Lane, who prefers the desert to living in England, becomes involved
+  in the struggles of an old sheik against the plotting by his son and Robert Barthampton.
+  Muriel meets Lane at an embassy ball and feels compelled to visit him in the desert,
+  partly because she has been told that Lizette is his mistress. On her second visit
+  the oasis camp is attacked, Barthampton forces his attentions on Muriel and is killed
+  by Lane, and Lizette is killed just after she explains that she had seen Lane only
+  to give him helpful information. The British Army comes to the rescue, and Muriel
+  and Lane are reconciled.
+gutenberg_issued: '2011-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34978'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Egypt -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+title: Burning Sands
+url: http://www.gutenberg.org/ebooks/34978
